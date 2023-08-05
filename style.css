@@ -103,8 +103,6 @@ body {
 }
 
 .card .actions {
-  display: flex;
-  flex-direction: columnn;
   padding-bottom: 20px;
 }
 
